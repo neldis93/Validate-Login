@@ -11,5 +11,5 @@ Console application with Python to validate login through username, email and pa
 ## To test the program
 
 ```bash
-python ./validate-login/core.py
+python3 ./validate-login/core.py
 ```
